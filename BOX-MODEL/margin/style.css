@@ -1,0 +1,19 @@
+
+* {  margin: 0;  }
+
+div, section {
+  border: 1px solid red;
+  width: 100px;
+  height: 100px;
+
+  margin: 0 2px;
+  display: inline;
+}
+
+/* div {
+  margin-bottom: 8px;
+}
+
+section {
+  margin-top: 8px;
+} */
